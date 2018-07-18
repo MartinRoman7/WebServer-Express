@@ -6,6 +6,6 @@
 npm install
 ```
 
-### Montado en servidor de Heroku
+### Montado en servidor de Heroku.
 
 [Heroku](https://martin-page.herokuapp.com)
