@@ -8,4 +8,4 @@ npm install
 
 ### Montado en servidor de Heroku.
 
-[Heroku](https://martin-page.herokuapp.com)
+[Heroku Web Page](https://martin-page.herokuapp.com)
